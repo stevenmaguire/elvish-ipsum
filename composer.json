@@ -13,6 +13,6 @@
         "badcow/lorem-ipsum": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Stevenmaguire": "src/" }
+        "psr-0": { "Stevenmaguire\\ElvishIpsum": "src/" }
     }
 }
