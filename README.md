@@ -51,4 +51,4 @@ When you want to include elvish text in your project, simply call one of the fol
     $paragraphs = Elvish::getParagraphs(2);
 ```
 
-*Originally crafted to support a project I demo'd at a [Chicago Laravel Meetup](http://www.meetup.com/laravel-chicago/events/199295092/)*
+*Originally crafted to support a [project](https://github.com/stevenmaguire/elvish-me) I demo'd at a [Chicago Laravel Meetup](http://www.meetup.com/laravel-chicago/events/199295092/)*
