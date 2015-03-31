@@ -1,6 +1,13 @@
 Elvish Ipsum Generator
 =====================
 
+[![Latest Version](https://img.shields.io/github/release/stevenmaguire/elvish-ipsum.svg?style=flat-square)](https://github.com/stevenmaguire/elvish-ipsum/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Build Status](https://img.shields.io/travis/stevenmaguire/elvish-ipsum/master.svg?style=flat-square&1)](https://travis-ci.org/stevenmaguire/elvish-ipsum)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/stevenmaguire/elvish-ipsum.svg?style=flat-square)](https://scrutinizer-ci.com/g/stevenmaguire/elvish-ipsum/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/stevenmaguire/elvish-ipsum.svg?style=flat-square)](https://scrutinizer-ci.com/g/stevenmaguire/elvish-ipsum)
+[![Total Downloads](https://img.shields.io/packagist/dt/stevenmaguire/elvish-ipsum.svg?style=flat-square)](https://packagist.org/packages/stevenmaguire/yelp-php)
+
 ### tl;dr
 
 Add random elvish words to your laravel application.

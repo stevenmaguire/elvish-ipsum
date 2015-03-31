@@ -13,6 +13,14 @@
         "badcow/lorem-ipsum": "dev-master"
     },
     "autoload": {
-        "psr-0": { "Stevenmaguire\\ElvishIpsum": "src/" }
-    }
+        "psr-4": {
+            "Stevenmaguire\\ElvishIpsum\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Stevenmaguire\\ElvishIpsum\\Test\\": "tests/src/"
+        }
+    },
+    "minimum-stability": "stable"
 }
