@@ -14,13 +14,9 @@ Add random elvish words to your laravel application.
 
 ### Required setup
 
-In the `require` key of `composer.json` file add the following
-
-    "stevenmaguire/elvish-ipsum": "dev-master"
-
-Run the Composer update comand
-
-    $ composer update
+```bash
+composer require stevenmaguire/elvish-ipsum
+```
 
 In your `config/app.php` add `'Stevenmaguire\ElvishIpsum\Provider'` to the end of the `$providers` array
 
