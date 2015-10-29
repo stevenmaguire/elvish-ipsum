@@ -6,7 +6,7 @@ Elvish Ipsum Generator
 [![Build Status](https://img.shields.io/travis/stevenmaguire/elvish-ipsum/master.svg?style=flat-square&1)](https://travis-ci.org/stevenmaguire/elvish-ipsum)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/stevenmaguire/elvish-ipsum.svg?style=flat-square)](https://scrutinizer-ci.com/g/stevenmaguire/elvish-ipsum/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/stevenmaguire/elvish-ipsum.svg?style=flat-square)](https://scrutinizer-ci.com/g/stevenmaguire/elvish-ipsum)
-[![Total Downloads](https://img.shields.io/packagist/dt/stevenmaguire/elvish-ipsum.svg?style=flat-square)](https://packagist.org/packages/stevenmaguire/yelp-php)
+[![Total Downloads](https://img.shields.io/packagist/dt/stevenmaguire/elvish-ipsum.svg?style=flat-square)](https://packagist.org/packages/stevenmaguire/elvish-ipsum)
 
 ### tl;dr
 
